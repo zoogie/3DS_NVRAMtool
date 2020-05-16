@@ -1,2 +1,2 @@
 # 3DS_NVRAMtool
-3DS nvram manager tool thingy. Deserves its own repo I guess.
+Moved from old [location](https://github.com/zoogie/Stuff/tree/master/3DS_NVRAMtool).<br>
